@@ -1,0 +1,2 @@
+# mindgridgame.github.io
+gitignore
